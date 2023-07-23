@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wil-vander
 - 👀 I’m interested in coding and yoga
-- 🌱 I’m currently learning vue 3
-- 💞️ I’m looking to collaborate on next level marketing websites
+- 🌱 I’m currently learning Astro
+- 💞️ I’m open to discuss CSS
 - 📫 How to reach me wil@vandertuin.nl
 
 <!---
