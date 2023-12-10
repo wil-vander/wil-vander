@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wil-vander
-- 👀 I’m interested in coding and yoga
-- 🌱 I’m currently learning Astro
+- 👀 I’m interested in frontend web, engineering management, health and AI
+- 🌱 I’m currently learning Astro, Kinde, Nextjs, Stylex
 - 💞️ I’m open to discuss CSS
 - 📫 How to reach me wil@vandertuin.nl
 
